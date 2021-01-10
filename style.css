@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+
+#myCarousel {
+    background-color: lightgoldenrodyellow;
+    height: 500px;
+    padding-top: 150px;
+}
+
+.carousel-content {
+    color: black;
+    font-family: 'Redressed', cursive;
+}
+
+img {
+    width: 200px;
+    height: 250px;
+    margin-left: 50px;
+}
+
+.left {
+    float: left;
+}
+
+#givemargin {
+    margin-left: 200px;
+}
